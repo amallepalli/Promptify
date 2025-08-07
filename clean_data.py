@@ -1,7 +1,7 @@
 import csv
 
-input_file = "new_data.csv"
-output_file = "renumbered_and_quoted.csv"
+input_file = "400_cot.csv"
+output_file = "1200_cot.csv"
 
 with open(input_file, newline='', encoding='utf-8') as infile, \
      open(output_file, 'w', newline='', encoding='utf-8') as outfile:
