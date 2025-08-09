@@ -1,0 +1,13 @@
+user_prompt,label,predicted_label
+How can I visually map out the relationships between characters in a novel?,cot,LABEL_1
+Write a fictional letter from someone affected by urban farming.,roleplay,LABEL_0
+What is a loving but firm way to set healthy boundaries with family?,cot,LABEL_0
+Evaluate the impact of peer learning on student achievement.,roleplay,LABEL_0
+Explain the difference between Proof-of-Work and Proof-of-Stake.,cot,LABEL_1
+Assess the benefits of telemedicine in rural healthcare delivery.,roleplay,LABEL_1
+What are the health benefits and risks of a Mediterranean diet?,cot,LABEL_1
+Explore the benefits of interdisciplinary research in higher education.,roleplay,LABEL_1
+Summarize the key concepts of Einstein's theory of relativity.,cot,LABEL_1
+Explore how citizen science contributes to environmental monitoring.,roleplay,LABEL_1
+Provide tips for planning a 'staycation' that feels like a real vacation.,cot,LABEL_0
+Analyze the effects of microfinance on poverty reduction.,roleplay,LABEL_1
