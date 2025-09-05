@@ -22,3 +22,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+*.pyc
+*.env
+# models & LFS
+backend/classifier/*.bin
+backend/classifier/*.pth
+backend/classifier/*.pt
+backend/classifier/*.ckpt
+backend/classifier/*.h5
+backend/classifier/*.onnx
+backend/classifier/*.safetensors
+backend/adapters/**/adapter_model.*
